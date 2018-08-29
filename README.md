@@ -2,7 +2,7 @@
 
 This is a small app written in Ionic by myself (Kelvin Dart) to illustrate how to use Ionic to write a simple contacts application.
 
-##Getting Started
+## Getting Started
 
 At the time of writing this app, my environment is set up as follows:
 
